@@ -1,14 +1,14 @@
 # 原harbor
-from="172.20.1.42:8580"
+from="***.**.**.**:****"
 # 目标harbor
-to="172.20.1.61:31904"
+to="***.**.**.**:****"
 
 # 项目名
-project="fireinvestigation"
+project="projectName"
 # 仓库名
-repository="fireinvestigation-modules-mediapush"
+repository="repositoryName"
 # 标签数组
-tags="SNAPSHOT-19 20220512-1250 SNAPSHOT-20 SNAPSHOT-22 SNAPSHOT-12 SNAPSHOT-21 20220513a 20220517-1053 20220512-1624 SNAPSHOT-13 SNAPSHOT-17 SNAPSHOT-14 SNAPSHOT-16 20220525-0901"
+tags="tag1 tag2 tag3"
 # 标签前缀
 prefix=""
 
